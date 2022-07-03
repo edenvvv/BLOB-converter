@@ -1,0 +1,1 @@
+# Convert any file to/from binary format

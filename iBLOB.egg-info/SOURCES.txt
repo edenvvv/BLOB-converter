@@ -1,0 +1,8 @@
+setup.py
+iBLOB/__init__.py
+iBLOB/iBLOB.py
+iBLOB.egg-info/PKG-INFO
+iBLOB.egg-info/SOURCES.txt
+iBLOB.egg-info/dependency_links.txt
+iBLOB.egg-info/not-zip-safe
+iBLOB.egg-info/top_level.txt
